@@ -214,7 +214,7 @@ const sourceDefinition = function (word) {
 
             https://en.wiktionary.org/wiki/${word}
 
-            <img class = 'source__img' src ='./assets/img/icon-new-window.svg' alt = 'Image of an arrow' 
+            <img class = 'source__img' src ='../src/assets/img/icon-new-window.svg' alt = 'Image of an arrow' 
             >
 
             </a>
