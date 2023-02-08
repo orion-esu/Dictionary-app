@@ -176,7 +176,7 @@ select {
   margin-top: 4rem;
 
   &::after {
-    content: url(/src/assets/img/icon-search.svg);
+    content: url('../assets/img/icon-search.svg');
     display: block;
     position: absolute;
     right: 2%;
